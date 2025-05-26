@@ -26,7 +26,7 @@ app.get('/health', (req, res) => {
 const PORT = process.env.PORT || 5000;
 
 app.get('/', (req, res) => {
-  res.send('HealthFollow API is running');
+  res.send('ClinicTrack API is running');
 });
 
 app.listen(PORT, () => console.log(`Server on port ${PORT}`));
