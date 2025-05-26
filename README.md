@@ -1,4 +1,4 @@
-# 🏥 HealthFollow
+# 🏥 ClinicTrack
 
 A healthcare follow-up reminder system for clinics and doctors. Automatically notifies patients and staff of upcoming appointments using SMS, WhatsApp, or Email.
 
